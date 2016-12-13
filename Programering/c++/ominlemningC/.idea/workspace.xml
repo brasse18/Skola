@@ -15,9 +15,6 @@
     <list id="90753978-032b-486b-9952-f75e0021b4a6" name="Default" comment="" />
     <list default="true" id="5c993387-044e-497a-8f58-083825df3824" name="add" comment="fixat allt förutom funktion">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Competitor.cpp" afterPath="$PROJECT_DIR$/Competitor.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Competitor.h" afterPath="$PROJECT_DIR$/Competitor.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.cpp" afterPath="$PROJECT_DIR$/main.cpp" />
     </list>
     <ignored path="ominlemningC.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -369,7 +366,7 @@
       <updated>1481627895421</updated>
       <workItem from="1481627898726" duration="3172000" />
       <workItem from="1481633780080" duration="13947000" />
-      <workItem from="1481658740370" duration="2006000" />
+      <workItem from="1481658740370" duration="2092000" />
     </task>
     <task id="LOCAL-00001" summary="filer var till lagda">
       <created>1481632114488</created>
@@ -392,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1481658354097</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixat allt förutom funktion">
+      <created>1481660769821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1481660769821</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19125000" />
+    <option name="totallyTimeSpent" value="19211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="24" width="1290" height="1005" extended-state="6" />
