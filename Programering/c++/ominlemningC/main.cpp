@@ -7,23 +7,29 @@
 
 using namespace std;
 
-void inputAndSetName(Competitor competitors[], int nrOfCompetitors)
+void input(Competitor* competitors[], int &nrOfCompetitors,int &marks)
 {
     string name = "";
+    cout << "How many twist places are there? " << endl;
+    cin >> marks;
+    cout << "How many persons will participate? " << endl;
+    cin >> nrOfCompetitors;
     cout << "Input the name of the " << nrOfCompetitors << " competitors:" << endl;
+    delete [] competitors;
+    competitors = new Competitor*[nrOfCompetitors];
     for (int i=0;i<nrOfCompetitors;i++)
     {
         cin >> name;
-        competitors[i].setName(name);
+        competitors[i] = new Competitor(name);
     }
 }
 
-void makeTwist(Competitor competitors[],int nrOfCompetitors)
+void doTwist(Competitor competitors[],int nrOfCompetitors)
 {
     for (int i=0;i<nrOfCompetitors;i++)
     {
         competitors[i].doTwist();
-        cout << competitors[i].getTwist() << endl;
+        cout << "test twist" << endl;
     }
 }
 
@@ -32,6 +38,7 @@ void makeMove(Competitor competitors[],int nrOfCompetitors)
     for (int i=0;i<nrOfCompetitors;i++)
     {
         competitors[i].move();
+        cout << "test move" << endl;
     }
 }
 
@@ -39,13 +46,7 @@ void showAll(Competitor competitors[],int nrOfCompetitors)
 {
     for (int i=0;i<nrOfCompetitors;i++)
     {
-        if (competitors[i].getTwist() == 0)
-        {
-            cout << competitors[i].getName() << " is heading towards start carrying " << competitors[i].getMark() << " markings." << endl;
-        } else
-        {
-            cout << competitors[i].getName() << " is heading towards goal carrying " << competitors[i].getMark() << " markings." << endl;
-        }
+        cout << competitors[i].toString() << endl;
     }
 }
 
@@ -54,7 +55,7 @@ int winner(Competitor competitors[],int nrOfCompetitors,int marks)
     int winer = 0;
     for (int i=0;i<nrOfCompetitors;i++)
     {
-        if (competitors[i] == marks)
+        if (competitors[i].isOnMark(marks))
         {
             winer = i;
         } else
@@ -70,37 +71,28 @@ int main() {
     int nrOfCompetitors = 3;
     bool loop = true;
     srand(time(NULL));
-    cout << "How many twist places are there? " << endl;
-    cin >> marks;
-    cout << "How many persons will participate? " << endl;
-    cin >> nrOfCompetitors;
-    Competitor competitors[nrOfCompetitors];
-    for (int i=0;i<nrOfCompetitors;i++)
-    {
-        competitors[i] = Competitor(marks,"");
-        cout << competitors[i].getName() << endl;
-    }
-    inputAndSetName(competitors,nrOfCompetitors);
+    Competitor** competitors = new Competitor*[nrOfCompetitors];
+    input(competitors,nrOfCompetitors,marks);
 
-    int end = -1;
+    const int noWiner = -1;
+    int winer = noWiner;
     int twists = 0;
     while (loop)
     {
-        end = winner(competitors,nrOfCompetitors,marks);
-        if (end == -1)
+        winer = winner(*competitors, nrOfCompetitors, marks);
+        if (winer == noWiner)
         {
-            makeTwist(competitors,nrOfCompetitors);
-            makeMove(competitors,nrOfCompetitors);
-            showAll(competitors,nrOfCompetitors);
-            cout << endl;
+            doTwist(*competitors,nrOfCompetitors);
+            makeMove(*competitors,nrOfCompetitors);
+            showAll(*competitors,nrOfCompetitors);
             twists++;
         }
         else
         {
-            cout << "The winner is " << competitors[end].getName() << " after " << twists << " twists.";
+            cout << "The winner is " << competitors[winer]->getName() << " after " << twists << " twists.";
             loop = false;
         }
     }
-    //delete [] competitors;
+    delete [] competitors;
     return 0;
 }

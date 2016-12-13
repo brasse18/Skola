@@ -4,30 +4,25 @@
 
 #ifndef OMINLEMNINGC_COMPETITOR_H
 #define OMINLEMNINGC_COMPETITOR_H
-
 #include <string>
 
 using namespace std;
 
 class Competitor {
 private:
-    int marks;
-    int mark;
+    int mark = 0;
     string name;
     int twist;
+    const int back = 1;
+    const int forward = 2;
 public:
     Competitor();
-    Competitor(int marks,string name);
-    int getMark() const;
+    Competitor(string name);
+    bool isOnMark(int nr);
     string getName() const;
-    void setMark(int mark);
-    void setName(string name);
     void doTwist();
-    int getTwist() const;
     void move();
-    bool operator == (const int&);
-
+    string toString();
 };
-
 
 #endif //OMINLEMNINGC_COMPETITOR_H

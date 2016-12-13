@@ -5,19 +5,12 @@
 #include "Competitor.h"
 #include <string>
 #include <stdlib.h>
+#include <iostream>
 
-Competitor::Competitor() {}
-
-Competitor::Competitor(int marks, string name)
+Competitor::Competitor(string name)
 {
-    this->marks = marks;
     this->mark = 0;
     this->name = name;
-}
-
-int Competitor::getMark() const
-{
-    return this->mark;
 }
 
 string Competitor::getName() const
@@ -25,47 +18,49 @@ string Competitor::getName() const
     return this->name;
 }
 
-void Competitor::setMark(int mark)
-{
-    this->mark = mark;
-}
-
-void Competitor::setName(string name)
-{
-    this->name = name;
-}
-
 void Competitor::doTwist()
 {
-    twist = rand() % 2;
-}
+    this->twist = rand() % 2 + 1;
 
-int Competitor::getTwist() const
-{
-    return this->twist;
 }
 
 void Competitor::move()
 {
-    if (this->twist == 0)
+    cout << this->twist << " " << this->back << " " << this->forward << " öööööööööööööööööö" << endl;
+    if (this->twist == 1)
     {
         if (this->mark > 0)
         {
             this->mark--;
         }
     }
-    else
+    else if (this->twist == 2)
     {
         this->mark++;
     }
 }
 
-bool Competitor::operator==(const int & sec)
+string Competitor::toString() {
+    string out = "error";
+    if (this->twist == this->forward)
+    {
+        out = name + " is heading towards start carrying " + to_string(mark) + " markings.";
+    } else if (this->twist == this->back)
+    {
+        out = name + " is heading towards goal carrying " + to_string(mark) +" markings.";
+    }
+    return out;
+}
+
+bool Competitor::isOnMark(int nr)
 {
     bool anser = false;
-    if (this->mark == sec)
+    cout << mark << endl;
+    if (this->mark >= nr)
     {
         anser = true;
     }
     return anser;
 }
+
+Competitor::Competitor() {}
