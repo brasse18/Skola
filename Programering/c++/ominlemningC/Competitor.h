@@ -8,13 +8,14 @@
 
 using namespace std;
 
+const static int back = 1;
+const static int forwardddd = 2;
+
 class Competitor {
 private:
     int mark = 0;
     string name;
     int twist;
-    const int back = 1;
-    const int forward = 2;
 public:
     Competitor();
     Competitor(string name);

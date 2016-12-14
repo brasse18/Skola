@@ -7,7 +7,9 @@
 
 using namespace std;
 
-void input(Competitor* competitors[], int &nrOfCompetitors,int &marks)
+const static int noWiner = -1;
+
+void input(Competitor** &competitors, int &nrOfCompetitors,int &marks)
 {
     string name = "";
     cout << "How many twist places are there? " << endl;
@@ -15,7 +17,6 @@ void input(Competitor* competitors[], int &nrOfCompetitors,int &marks)
     cout << "How many persons will participate? " << endl;
     cin >> nrOfCompetitors;
     cout << "Input the name of the " << nrOfCompetitors << " competitors:" << endl;
-    delete [] competitors;
     competitors = new Competitor*[nrOfCompetitors];
     for (int i=0;i<nrOfCompetitors;i++)
     {
@@ -24,67 +25,63 @@ void input(Competitor* competitors[], int &nrOfCompetitors,int &marks)
     }
 }
 
-void doTwist(Competitor competitors[],int nrOfCompetitors)
+void doTwist(Competitor* competitors[],int nrOfCompetitors)
 {
     for (int i=0;i<nrOfCompetitors;i++)
     {
-        competitors[i].doTwist();
-        cout << "test twist" << endl;
+        competitors[i]->doTwist();
     }
 }
 
-void makeMove(Competitor competitors[],int nrOfCompetitors)
+void makeMove(Competitor* competitors[],int nrOfCompetitors)
 {
     for (int i=0;i<nrOfCompetitors;i++)
     {
-        competitors[i].move();
-        cout << "test move" << endl;
+        competitors[i]->move();
     }
 }
 
-void showAll(Competitor competitors[],int nrOfCompetitors)
+void showAll(Competitor* competitors[],int nrOfCompetitors)
 {
     for (int i=0;i<nrOfCompetitors;i++)
     {
-        cout << competitors[i].toString() << endl;
+        cout << competitors[i]->toString() << endl;
     }
+    cout << endl;
+    cout << endl;
 }
 
-int winner(Competitor competitors[],int nrOfCompetitors,int marks)
+int winner(Competitor* competitors[],int nrOfCompetitors,int marks)
 {
-    int winer = 0;
+    int winer = noWiner;
     for (int i=0;i<nrOfCompetitors;i++)
     {
-        if (competitors[i].isOnMark(marks))
+        if (competitors[i]->isOnMark(marks) && winer == noWiner)
         {
             winer = i;
-        } else
-        {
-            winer = -1;
         }
     }
     return winer;
 }
 
 int main() {
-    int marks = 3;
-    int nrOfCompetitors = 3;
+    int marks;
+    int nrOfCompetitors;
     bool loop = true;
     srand(time(NULL));
-    Competitor** competitors = new Competitor*[nrOfCompetitors];
+    Competitor** competitors = nullptr;
     input(competitors,nrOfCompetitors,marks);
 
-    const int noWiner = -1;
     int winer = noWiner;
     int twists = 0;
     while (loop)
     {
-        winer = winner(*competitors, nrOfCompetitors, marks);
+        winer = winner(competitors, nrOfCompetitors, marks);
         if (winer == noWiner)
         {
-            doTwist(*competitors,nrOfCompetitors);
-            makeMove(*competitors,nrOfCompetitors);
-            showAll(*competitors,nrOfCompetitors);
+            doTwist(competitors,nrOfCompetitors);
+            makeMove(competitors,nrOfCompetitors);
+            showAll(competitors,nrOfCompetitors);
             twists++;
         }
         else
