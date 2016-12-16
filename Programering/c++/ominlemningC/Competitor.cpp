@@ -21,12 +21,10 @@ string Competitor::getName() const
 void Competitor::doTwist()
 {
     this->twist = rand() % 2 + 1;
-
 }
 
 void Competitor::move()
 {
-    cout << this->twist << " " << back << " " << forwardddddd << " öööööööööööööööööö" << endl;
     if (this->twist == 1)
     {
         if (this->mark > 0)
@@ -41,8 +39,8 @@ void Competitor::move()
 }
 
 string Competitor::toString() {
-    string out = this->name;
-    if (this->twist == forwardddddd)
+    string out = "error";
+    if (this->twist == forwardddd)
     {
         out = name + " is heading towards start carrying " + to_string(mark) + " markings.";
     } else if (this->twist == back)
@@ -55,8 +53,6 @@ string Competitor::toString() {
 bool Competitor::isOnMark(int nr)
 {
     bool anser = false;
-    cout << "Faggots marks: " << mark << endl;
-    getchar();
     if (this->mark >= nr)
     {
         anser = true;

@@ -9,7 +9,7 @@
 using namespace std;
 
 const static int back = 1;
-const static int forwardddddd = 2;
+const static int forwardddd = 2;
 
 class Competitor {
 private:
