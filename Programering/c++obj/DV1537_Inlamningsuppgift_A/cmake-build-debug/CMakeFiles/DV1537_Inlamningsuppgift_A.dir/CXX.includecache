@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/brass/CLionProjects/DV1537_Inlamningsuppgift_A/Car.cpp
+iostream
+-
+string
+-
+Car.h
+C:/Users/brass/CLionProjects/DV1537_Inlamningsuppgift_A/Car.h
+
+C:/Users/brass/CLionProjects/DV1537_Inlamningsuppgift_A/Car.h
+iostream
+-
+
+C:/Users/brass/CLionProjects/DV1537_Inlamningsuppgift_A/CarRegister.cpp
+cstdlib
+-
+CarRegister.h
+C:/Users/brass/CLionProjects/DV1537_Inlamningsuppgift_A/CarRegister.h
+
+C:/Users/brass/CLionProjects/DV1537_Inlamningsuppgift_A/CarRegister.h
+iostream
+-
+fstream
+-
+Car.h
+C:/Users/brass/CLionProjects/DV1537_Inlamningsuppgift_A/Car.h
+
+C:/Users/brass/CLionProjects/DV1537_Inlamningsuppgift_A/main.cpp
+iostream
+-
+cstdlib
+-
+CarRegister.h
+C:/Users/brass/CLionProjects/DV1537_Inlamningsuppgift_A/CarRegister.h
+fstream
+-
+

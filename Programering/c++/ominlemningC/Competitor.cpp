@@ -3,9 +3,7 @@
 //
 
 #include "Competitor.h"
-#include <string>
 #include <stdlib.h>
-#include <iostream>
 
 Competitor::Competitor(string name)
 {

@@ -1,0 +1,3 @@
+C:/Users/brass/CLionProjects/DV1537_Inlamningsuppgift_A/cmake-build-debug/CMakeFiles/DV1537_Inlamningsuppgift_A.dir
+C:/Users/brass/CLionProjects/DV1537_Inlamningsuppgift_A/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/brass/CLionProjects/DV1537_Inlamningsuppgift_A/cmake-build-debug/CMakeFiles/rebuild_cache.dir

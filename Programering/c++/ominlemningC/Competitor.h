@@ -4,7 +4,8 @@
 
 #ifndef OMINLEMNINGC_COMPETITOR_H
 #define OMINLEMNINGC_COMPETITOR_H
-#include <string>
+
+#include <iostream>
 
 using namespace std;
 

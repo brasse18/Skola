@@ -1,8 +1,5 @@
 #include <iostream>
-#include <string>
-#include <stdlib.h>
 #include <ctime>
-#include <stdio.h>
 #include "Competitor.h"
 
 using namespace std;

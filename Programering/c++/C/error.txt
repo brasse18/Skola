@@ -1,0 +1,34 @@
+g++ -Iinclude -Wall -O3 InlemningC.cpp -o test
+/tmp/cc8bvPwa.o: In function `switchBall(Ball&, Ball&)':
+InlemningC.cpp:(.text+0x87): undefined reference to `Ball::operator=(Ball const&)'
+InlemningC.cpp:(.text+0x94): undefined reference to `Ball::operator=(Ball const&)'
+/tmp/cc8bvPwa.o: In function `sortBuble(int, Ball*)':
+InlemningC.cpp:(.text+0x161): undefined reference to `Ball::Ball()'
+InlemningC.cpp:(.text+0x1e8): undefined reference to `Ball::operator>(Ball const&)'
+InlemningC.cpp:(.text+0x263): undefined reference to `Ball::operator=(Ball const&)'
+InlemningC.cpp:(.text+0x270): undefined reference to `Ball::operator=(Ball const&)'
+/tmp/cc8bvPwa.o: In function `printAll(int, Ball*)':
+InlemningC.cpp:(.text+0x3ad): undefined reference to `Ball::getRadie()'
+InlemningC.cpp:(.text+0x3c1): undefined reference to `Ball::getRadie()'
+/tmp/cc8bvPwa.o: In function `setAll(Ball*)':
+InlemningC.cpp:(.text+0x495): undefined reference to `Ball::Ball(double, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, double)'
+InlemningC.cpp:(.text+0x4a2): undefined reference to `Ball::operator=(Ball const&)'
+InlemningC.cpp:(.text+0x50c): undefined reference to `Ball::Ball(double, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, double)'
+InlemningC.cpp:(.text+0x51a): undefined reference to `Ball::operator=(Ball const&)'
+InlemningC.cpp:(.text+0x57d): undefined reference to `Ball::Ball(double, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, double)'
+InlemningC.cpp:(.text+0x58b): undefined reference to `Ball::operator=(Ball const&)'
+/tmp/cc8bvPwa.o: In function `delBall(int, int, Ball*)':
+InlemningC.cpp:(.text+0x65a): undefined reference to `Ball::Ball()'
+InlemningC.cpp:(.text+0x667): undefined reference to `Ball::operator=(Ball const&)'
+InlemningC.cpp:(.text+0x688): undefined reference to `Ball::Ball()'
+InlemningC.cpp:(.text+0x731): undefined reference to `Ball::operator=(Ball const&)'
+InlemningC.cpp:(.text+0x73e): undefined reference to `Ball::operator=(Ball const&)'
+/tmp/cc8bvPwa.o: In function `addBall(int, int, Ball*)':
+InlemningC.cpp:(.text+0x8bb): undefined reference to `Ball::Ball()'
+InlemningC.cpp:(.text+0x8fb): undefined reference to `Ball::operator=(Ball const&)'
+/tmp/cc8bvPwa.o: In function `main':
+InlemningC.cpp:(.text.startup+0x26): undefined reference to `Ball::Ball()'
+InlemningC.cpp:(.text.startup+0x2f): undefined reference to `Ball::Ball()'
+InlemningC.cpp:(.text.startup+0x38): undefined reference to `Ball::Ball()'
+collect2: fel: ld returnerade avslutningsstatus 1
+make: *** [Makefile:18: test] Fel 1
