@@ -3,13 +3,14 @@
 import socket
 import sys
 from time import sleep
-#sleep(0.1) # Time in seconds.
 
 # Create a UDP socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
-server_address = ('81.92.197.134', 10000)
-#dump = b'aofjdnlksujflkoichneldjshdkflskhflslfhsljfkursrklhsbdddddlllleeeiiiissshhhhdddggaaapppllmmqq'
+ip = '81.92.197.134'
+port = 10000
+
+server_address = (ip, port)
 dump = bytearray(1000)
 data = [b'1001;', b'1002;', b'1003;', b'1004;', b'1005;', b'1006;', b'1007;']
 
