@@ -11,25 +11,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="receiver-udp.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/receiver-udp.py">
+      <file leaf-file-name="sender-udp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/sender-udp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="28" selection-end-column="16" />
               <folding>
-                <element signature="e#9#22#0" expanded="true" />
+                <element signature="e#13#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sender-udp.py" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/sender-udp.py">
+      <file leaf-file-name="sender-tcp.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/sender-tcp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="323">
+              <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
               <folding>
-                <element signature="e#9#22#0" expanded="true" />
+                <element signature="e#13#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="receiver-udp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/receiver-udp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="17" />
+              <folding>
+                <element signature="e#15#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reveiver-tcp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/reveiver-tcp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+              <folding>
+                <element signature="e#15#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,6 +76,10 @@
         <option value="$PROJECT_DIR$/client.py" />
         <option value="$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/receiver.py" />
         <option value="$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/sender.py" />
+        <option value="$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/sender-udp.py" />
+        <option value="$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/receiver-udp.py" />
+        <option value="$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/reveiver-tcp.py" />
+        <option value="$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/sender-tcp.py" />
       </list>
     </option>
   </component>
@@ -116,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sender">
+  <component name="RunManager" selected="Python.sender-tcp">
     <configuration name="receiver" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,6 +158,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Lab-2-streaming" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/receiver-udp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="reveiver-tcp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lab-2-streaming" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/reveiver-tcp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sender-tcp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lab-2-streaming" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/sender-tcp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,10 +217,18 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.receiver" />
       <item index="1" class="java.lang.String" itemvalue="Python.sender" />
+      <item index="2" class="java.lang.String" itemvalue="Python.reveiver-tcp" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sender-tcp" />
     </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.sender-tcp" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reveiver-tcp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -177,7 +249,7 @@
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1928" height="1054" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.50208336" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -214,20 +286,40 @@
     </entry>
     <entry file="file://$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/receiver-udp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        <state relative-caret-position="527">
+          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="17" />
           <folding>
-            <element signature="e#9#22#0" expanded="true" />
+            <element signature="e#15#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/sender-udp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="28" selection-end-column="16" />
           <folding>
-            <element signature="e#9#22#0" expanded="true" />
+            <element signature="e#13#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/reveiver-tcp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="e#15#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/skol/Skola/Programering/network/Lab-2-streaming/sender-tcp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="e#13#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
