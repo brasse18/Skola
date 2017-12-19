@@ -7,8 +7,9 @@ from time import sleep
 # Create a UDP socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
-ip = '81.92.197.134'
+ip = '193.11.186.174'
 port = 10000
+time = 0.05
 
 server_address = (ip, port)
 dump = bytearray(1000)
@@ -19,7 +20,7 @@ try:
     for x in range(0, 5):
         print('sending {!r}'.format(data[x]+b'and dump data'))
         sent = sock.sendto(data[x]+dump, server_address)
-        sleep(1)
+        sleep(time)
 
 
     # Receive response
