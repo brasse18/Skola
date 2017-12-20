@@ -1,0 +1,12 @@
+1 cat pscopy.txt | head -n 10 | tail -n 4
+2 cat netcopy.txt | head -n 15 | tail -n +8
+3 cat netcopy.txt | grep -v ESTABLISHED | tail -n +3
+4 cat pscopy.txt | tail -n 7
+5 cat netcopy.txt | grep root | awk '{print $NF}' | sort -u
+6 cat pscopy.txt | awk '{print $8}' | sort -u
+7 cat netcopy.txt | sort -k 3 | tail -n3 | head -n 1
+8 cat pscopy.txt | sort -k 6 | tail -n3 | head -n 1 | awk '{print $ 2}'
+9 cat dircopy.txt | awk '{print $1}' | awk '{print substr($0,0,4)}' | grep  "x" | grep "^[^d;]" | wc -l
+10 cat dircopy.txt | tail -n+4 | sort -k 5 | awk '{print $9}' | egrep "^\." | tail -n1
+11 echo "nope"
+12 echo "nope"

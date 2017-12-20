@@ -1,0 +1,10 @@
+1 grep -o '[(][/][0-9]*[)]' datasets/q1data.txt
+2 grep -o '[(][A-Z][a-z]*[)][-][>][A-Z][a-z]*[a-z]' datasets/q2data.txt
+3 grep -o '[(][A-Za-z]*[)]' datasets/q3data.txt
+4 grep -o '[-][>][-][>][-][>]' datasets/q4data.txt
+5 grep -o '[[][]{+-]*[}]' datasets/q5data.txt
+6 grep -o '[+-][:;]*[+-]*[:;]*[:]' datasets/q6data.txt
+7 grep -o '[H,T,G,P,E][a-z]*[-<][>-][H,T,G,P,E][a-z]*[-<][>-]' datasets/q7data.txt
+8 grep -o '[(][-><)\\/]*[.,]' datasets/q8data.txt
+9 grep -o '[{][/\\][}][<>-]*[A-Z][a-z]*' datasets/q9data.txt
+10 grep -o '[0-9][0-9][0-9][0-9][/\][/\]\\|[(][/\][)]' datasets/q10data.txt

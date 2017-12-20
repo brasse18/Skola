@@ -1,0 +1,12 @@
+total 68
+drwxr-xr-x 2 brasse brasse  4096 24 nov 17.55 .
+drwxr-xr-x 3 brasse brasse  4096 24 nov 16.25 ..
+-rw-r--r-- 1 brasse brasse   503 24 nov 17.40 ansers.ans
+-rwxr-xr-x 1 brasse brasse   356 24 nov 17.13 build-report.sh
+-rw-r--r-- 1 brasse brasse     0 24 nov 17.56 dircopy.txt
+-rw-r--r-- 1 brasse brasse    14 24 nov 17.55 .hehehe.hemlig
+-rw-r--r-- 1 brasse brasse  7144 24 nov 16.26 histcopy.txt
+-rw-r--r-- 1 brasse brasse  5496 24 nov 16.33 netcopy.txt
+-rw-r--r-- 1 brasse brasse 20376 24 nov 16.26 pscopy.txt
+-rw-r--r-- 1 brasse brasse  5654 24 nov 17.12 report.txt
+-rw-r--r-- 1 brasse brasse   175 24 nov 17.55 .test.sh

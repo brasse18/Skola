@@ -1,0 +1,80 @@
+MarMon101010$$[,Phil]
+2.8[,Edna]Sat3.1415ThuPurple
+ Blue100101pi$$$[,Phil]
+001010$$$AugTue[,Edna]
+foo[,Tom]``phi2.8
+FebFri[,Edna] 3.14153Purple
+NULLblah110100Yellow[,Harry]Tue
+taophiRedPurplefoo[,Tom]
+[,George]fooJulWedWedPurple
+`111000101110$[,Harry]blah
+SatSatGreen$$3.1415[,Tom]
+[,Tom]JanNILLNULL100110Mon
+3.1415Greenpi[,Tom]`000011
+VOIDRed[,Harry] `blah
+111100foo[,Edna]BLACKblah000100
+Oct010000[,Harry]phi3.14
+[,Phil]3.14taoNULLfoo
+Friblah[,Tom]AugYellowblah
+'Green Sat[,George]000110
+[,Phil]011111TueMarJul
+Dec[,Tom]blahJulWed
+`tao000000$$[,Harry] 
+WHITEPurpleJan[,George]'WHITE
+[,Tom]2.8$$May010001Feb
+piOrange[,George]'NILLpi
+[,Edna]taoblah3.14Sun`
+fooPurple[,George]Sat3.14153Purple
+[,Edna]VOIDSepphi100011
+Sep"[,Phil]fooYellow
+OrangeAugphiSatfoo[,Phil]
+'Jan$$$$$3.1415[,Harry]
+NILL[,Harry]110111Green"
+Novtao[,Harry]WHITEWHITEBLACK
+`blahSun[,Harry]$Wed
+fubar"Yellow[,George]VOID
+3.14$$[,Phil]taoDec
+[,Edna]$WHITEfubar'NILL
+Sun "[,George]
+'BLACKchi`[,Tom]Orange
+2.8`[,Phil] 010111'
+SepPurple[,Edna]ThuPurplepi
+VOIDGreen111010Purple[,Phil]Wed
+phiVOIDSunfooSep[,Tom]
+ThuWedWHITEBLACK[,Phil]$$$
+WHITEOctNILL[,Tom]DecMar
+[,Tom]Frifubar000101
+[,Harry]Oct"NILL3.14$$$
+'WHITE'[,Phil]WHITE111101
+foo[,Edna]'FriMonfoo
+[,Edna]blahBlue$$$"Wed
+2.8`BLACK[,George]Bluetao
+[,Harry]YellowDec010001PurpleSat
+[,Harry]NILLphichiblahNov
+$"$Blue[,Harry]101010
+NULL3.141533.1415$[,Harry]fubar
+May'"[,Phil]Monphi
+pi"blah$[,Tom]"
+[,George]Wed001111VOID$$$Fri
+ chiAug`[,Edna]
+[,Harry]Purple3.14 3.14153
+[,Phil]NILLpi$TueOrange
+011011NILL[,George]WHITEphiVOID
+Wed[,George]WHITE$SepGreen
+foo010010taoJul010000[,Harry]
+WHITEchifooWedApr[,Phil]
+Tue110000$[,Harry]NILLWed
+Wed [,George]101011010010
+010001blahVOID[,George]FebWHITE
+011100[,George]Mon$$'3.1415
+ fooWHITE3.14153[,Harry]
+foo001001taoNULL$$$[,Phil]
+000101 [,George]100011piYellow
+May '[,Edna]$$$$
+3.14WHITE011101[,Edna]MayWed
+'$[,Edna]fubar111010fubar
+[,Phil]NULLtao"'
+[,Phil]$3.14$$$101011Yellow
+WHITE100000010110Feb011100[,George]
+'WHITEtao$$$phi[,Harry]
+2.83.14'[,Phil]3.14

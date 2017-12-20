@@ -1,0 +1,80 @@
+$BLACK{tokyo}{tokyo},Harry/3.1415phi
+011110pi,George/BLACK{paris}{stockholm}3.14153fubar
+BlueSat,Harry/WHITE{stockholm}{tokyo}blah'
+fubarNILL{stockholm}{tokyo}Dec,Harry/YellowMar
+Monfubar,Phil/110111{stockholm}{tokyo} Sat
+WHITEMay{tokyo}{tokyo} ,Edna/Tue100100
+ WHITE{paris}{tokyo}Sep,Edna/MonVOID
+chi100010,Phil/phi{stockholm}{stockholm}NULL`
+NILL{stockholm}{stockholm}3.1415,George/3.14Purple
+$$NULL{tokyo}{stockholm}$$,Tom/Yellow"
+3.14Fri{paris}{paris}Yellow,Tom/taoVOID
+WHITE',Phil/'{stockholm}{stockholm}NULLBLACK
+3.1415foo,Edna/{paris}{paris}Yellow$$
+`Orange,Edna/111100{paris}{paris}SepRed
+3.14NULL{tokyo}{paris}",Tom/AugJun
+Yellowtao{tokyo}{stockholm}`,Phil/3.1415 
+WHITEchi{stockholm}{paris}$$,Edna/ May
+VOIDBLACK,Harry/{paris}{paris}110111Purple
+2.8Jan{tokyo}{tokyo}3.14,Edna/$`
+Redblah{tokyo}{tokyo}Mon,George/blahpi
+3.14153Sep,Harry/ {tokyo}{tokyo}FriTue
+phiBLACK{paris}{tokyo}BLACK,Tom/`2.8
+JulFri,George/Red{paris}{tokyo}VOIDWHITE
+NILL'{paris}{tokyo}Tue,Tom/phiNov
+101001110000{stockholm}{stockholm}3.14153,Tom/$Sun
+fubarJun{tokyo}{stockholm}001110,Phil/`BLACK
+3.14Red{stockholm}{paris}Orange,Edna/BLACK 
+Sun {tokyo}{tokyo}VOID,Phil/Yellow`
+NILLTue,Phil/{stockholm}{tokyo}NILL`
+"Wed,Edna/pi{tokyo}{paris} 100101
+WHITE3.1415,George/Oct{stockholm}{tokyo}111011NULL
+pi$$,George/{stockholm}{paris}Apr$$$
+blahWHITE,Phil/tao{tokyo}{tokyo}"Red
+101110$$$,Edna/"{tokyo}{tokyo}001111BLACK
+Jan010001{stockholm}{paris}WHITE,Edna/"phi
+fooNULL{tokyo}{paris}blah,Harry/Tue3.1415
+fubarYellow,Tom/Yellow{tokyo}{paris}WHITE
+'$$,Harry/BLACK{stockholm}{tokyo}Orange001011
+2.8{paris}{paris}Thu,Harry/WHITENILL
+blah{paris}{stockholm}NULL,George/$$'
+SatTue,Tom/NILL{tokyo}{paris}WHITE
+"VOID,Phil/Nov{tokyo}{tokyo}BLACKJul
+$$$3.14{stockholm}{stockholm}chi,Harry/
+Apr2.8{stockholm}{tokyo}2.8,Tom/VOIDblah
+NILL ,George/{paris}{stockholm}Blue
+$$WHITE,Phil/111000{tokyo}{stockholm}3.14153'
+VOID100100,Phil/NILL{tokyo}{tokyo}blahphi
+BLACKNILL,Edna/fubar{stockholm}{stockholm}phichi
+3.1415{tokyo}{tokyo}foo,Harry/tao$
+$$$,Phil/phi{paris}{stockholm}NULLblah
+`$$$,George/$$${paris}{paris}Bluefoo
+foo,Edna/$${stockholm}{tokyo}'Purple
+foo',Harry/'{stockholm}{paris}NILL2.8
+'NULL{paris}{paris}tao,George/000100'
+Wed$$,Harry/fubar{tokyo}{tokyo}taoThu
+blah$,George/`{paris}{tokyo}WHITE$$
+$$foo,Tom/Tue{tokyo}{paris}110101Yellow
+3.1415$$${tokyo}{tokyo}blah,Edna/3.1415Oct
+Novphi{stockholm}{paris}WHITE,Edna/YellowApr
+Feb101111{stockholm}{tokyo}$$,Harry/phi$$
+BLACKNILL,Harry/"{tokyo}{paris}BLACK'
+'tao,Tom/111111{stockholm}{tokyo} `
+fubar3.1415,Edna/NILL{paris}{paris}Mar
+ WHITE{tokyo}{tokyo}May,Harry/phiMon
+GreenNULL,Edna/ {tokyo}{paris}Wed3.14153
+$$phi{tokyo}{stockholm}001000,George/chi 
+MayNILL{paris}{stockholm}Wed,George/Bluetao
+WHITEJan{paris}{tokyo}WHITE,Edna/$$`
+'Wed{tokyo}{tokyo}Thu,Edna/3.14153VOID
+DecYellow,Tom/BLACK{tokyo}{paris}111100$
+VOID3.1415{paris}{paris} ,Harry/3.14fubar
+,Harry/WHITE{stockholm}{stockholm}WHITE
+Red",Edna/phi{stockholm}{stockholm}BLACKblah
+Jun3.14{stockholm}{tokyo} ,Tom/000011Wed
+ blah{stockholm}{stockholm}3.1415,Harry/NULL3.14153
+piWHITE{stockholm}{stockholm}2.8,Harry/fubarTue
+foofubar,Edna/Purple{tokyo}{stockholm}"phi
+chi',Tom/$${paris}{paris} `
+`phi,George/'{stockholm}{paris}WHITE 
+VOIDfubar,Tom/`{tokyo}{paris}fubar3.14

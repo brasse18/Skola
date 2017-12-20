@@ -1,0 +1,106 @@
+
+1a root         8  0.0  0.0      0     0 ?        S    Nov02   0:00 [rcu_bh]
+1a root         9  0.0  0.0      0     0 ?        S    Nov02   0:00 [migration/0]
+1a root        10  0.0  0.0      0     0 ?        S    Nov02   0:02 [watchdog/0]
+1a root        11  0.0  0.0      0     0 ?        S    Nov02   0:02 [watchdog/1]
+1b cat pscopy.txt | head -n 10 | tail -n 4
+1c 
+
+2a tcp        0      0 localhost:32600         0.0.0.0:*               LISTEN      plex       14918     
+2a tcp        0      0 0.0.0.0:mysql-cluster   0.0.0.0:*               LISTEN      plex       15863     
+2a tcp        0      0 localhost:44869         0.0.0.0:*               LISTEN      plex       15880     
+2a tcp        0      0 simon-lenovo:60664      lg-in-f188.1e100.net:hpvroom ESTABLISHED brasse     23450     
+2a tcp        0      0 localhost:47196         localhost:38519         CLOSE_WAIT  plex       14252     
+2a tcp        0      0 simon-lenovo:39248      195-12-231-214.customer.teliacarrier.com:https ESTABLISHED brasse     51070     
+2a tcp        0      0 simon-lenovo:42898      arn06s07-in-f18.1e100.net:https ESTABLISHED brasse     50138     
+2a tcp        1      0 simon-lenovo:34300      195-12-231-225.customer.teliacarrier.com:www-http CLOSE_WAIT  brasse     44529     
+2b cat netcopy.txt | head -n 15 | tail -n +8
+2c 
+
+3a tcp        0      0 0.0.0.0:plex            0.0.0.0:*               LISTEN      plex       8923      
+3a tcp        0      0 localhost:32401         0.0.0.0:*               LISTEN      plex       8924      
+3a tcp        0      0 0.0.0.0:32469           0.0.0.0:*               LISTEN      plex       15868     
+3a tcp        0      0 localhost:ipp           0.0.0.0:*               LISTEN      root       18943     
+3a tcp        0      0 localhost:38519         0.0.0.0:*               LISTEN      plex       15816     
+3a tcp        0      0 localhost:32600         0.0.0.0:*               LISTEN      plex       14918     
+3a tcp        0      0 0.0.0.0:mysql-cluster   0.0.0.0:*               LISTEN      plex       15863     
+3a tcp        0      0 localhost:44869         0.0.0.0:*               LISTEN      plex       15880     
+3a tcp        0      0 localhost:47196         localhost:38519         CLOSE_WAIT  plex       14252     
+3a tcp        1      0 simon-lenovo:34300      195-12-231-225.customer.teliacarrier.com:www-http CLOSE_WAIT  brasse     44529     
+3a tcp        1      1 simon-lenovo:54798      arn06s07-in-f97.1e100.net:https LAST_ACK    root       0         
+3a tcp        1      1 simon-lenovo:56688      195-12-231-227.customer.teliacarrier.com:https LAST_ACK    root       0         
+3a tcp        1      1 simon-lenovo:39442      arn09s11-in-f2.1e100.net:https LAST_ACK    root       0         
+3a tcp        1      1 simon-lenovo:38466      host-85-30-131-172.sydskane.nu:https LAST_ACK    root       0         
+3a tcp        1      1 simon-lenovo:38468      host-85-30-131-172.sydskane.nu:https LAST_ACK    root       0         
+3a tcp        1      0 simon-lenovo:32866      arn06s07-in-f110.1e100.net:www-http CLOSE_WAIT  brasse     44528     
+3a tcp        1      1 simon-lenovo:38472      host-85-30-131-172.sydskane.nu:https LAST_ACK    root       0         
+3a tcp        1      1 simon-lenovo:56690      195-12-231-227.customer.teliacarrier.com:https LAST_ACK    root       0         
+3a tcp        1      1 simon-lenovo:38470      host-85-30-131-172.sydskane.nu:https LAST_ACK    root       0         
+3a tcp        1      1 simon-lenovo:38474      host-85-30-131-172.sydskane.nu:https LAST_ACK    root       0         
+3a tcp        1      1 simon-lenovo:56696      195-12-231-227.customer.teliacarrier.com:https LAST_ACK    root       0         
+3a tcp        1      1 simon-lenovo:56686      195-12-231-227.customer.teliacarrier.com:https LAST_ACK    root       0         
+3a tcp        0      0 simon-lenovo:39246      195-12-231-214.customer.teliacarrier.com:https TIME_WAIT   root       0         
+3a tcp        1      1 simon-lenovo:57028      arn09s10-in-f142.1e100.net:https LAST_ACK    root       0         
+3a tcp        1      0 simon-lenovo:47110      195-12-231-216.customer.teliacarrier.com:www-http CLOSE_WAIT  brasse     49179     
+3a tcp6       0      0 [::]:xmsg               [::]:*                  LISTEN      brasse     19463     
+3a tcp6       0      0 localhost:ipp           [::]:*                  LISTEN      root       18942     
+3b cat netcopy.txt | grep -v ESTABLISHED | tail -n +3
+3c 
+
+4a bjbl15   13560  0.0  0.0  90264  7608 pts/17   Ss+  07:41   0:00 -bash
+4a bjbl15   13638  0.0  0.0  90264  7464 pts/16   Ss   07:46   0:00 -bash
+4a root     15974  0.0  0.0      0     0 ?        S    07:59   0:00 [kworker/5:0]
+4a root     18200  0.0  0.8 499684 141444 tty7    Ss+  Nov03   3:22 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+4a root     22006  0.0  0.0      0     0 ?        S    Nov04   0:00 [kworker/4:1]
+4a root     27368  0.0  0.0      0     0 ?        S    Nov05   0:00 [kworker/7:2]
+4a root     29707  0.0  0.0      0     0 ?        S    Nov05   0:04 [kworker/5:1]
+4b cat pscopy.txt | tail -n 7
+4c 
+
+5a 0
+5a 18942
+5a 18943
+5b cat netcopy.txt | grep root | awk '{print $NF}' | sort -u
+5c 
+
+6a R+
+6a S
+6a S<
+6a S+
+6a Sl
+6a SLl
+6a SLsl
+6a SN
+6a Ss
+6a Ss+
+6a Ssl
+6a STAT
+6a T
+6a Zs
+6b cat pscopy.txt | awk '{print $8}' | sort -u
+6c 
+
+7a tcp        1      1 simon-lenovo:57028      arn09s10-in-f142.1e100.net:https LAST_ACK    root       0         
+7b cat netcopy.txt | sort -k 3 | tail -n3 | head -n 1
+7c 
+
+8a 12413
+8b cat pscopy.txt | sort -k 6 | tail -n3 | head -n 1 | awk '{print $ 2}'
+8c 
+
+9a 1
+9b cat dircopy.txt | awk '{print $1}' | awk '{print substr($0,0,4)}' | grep "x" | grep "^[^d;]" | wc -l
+9c 
+
+10a histcopy.txt
+10b cat dircopy.txt | tail -n+4 | sort -k 5 | awk '{print $9}' | egrep "^." | tail -n1
+10c 
+
+11a nope
+11b echo "nope"
+11c 
+
+12a nope
+12b echo "nope"
+12c 
+

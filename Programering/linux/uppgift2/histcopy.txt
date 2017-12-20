@@ -1,0 +1,232 @@
+    1  exit
+    2  find . -type d -exec find \{\} -type f \;
+    3  find . -type d -exec find \{\} -type f \; | awk -F '/' '{print NF " " $0}'
+    4  find . -type d -exec find \{\} -type f \; | awk '{print $ARGV}'
+    5  find . -type d -exec find \{\} -type f \; | awk -F '/' '{print $ARGV}'
+    6  find . -type d -exec find \{\} -type f \; | awk -F '/' '{print $-1}'
+    7  find . -type d -exec find \{\} -type f \; | awk -F '/' '{print $ARGV-1}'
+    8  find . -type d -exec find \{\} -type f \; | awk -F '/' '{print $ARGV - 1}'
+    9  find . -type d -exec find \{\} -type f \; | awk -F '/' '{print  $ARGV - 1}'
+   10  find . -type d -exec find \{\} -type f \; | awk -F '/' '{print $1}'
+   11  find . -type d -exec find \{\} -type f \; | awk -F '/' '{print $0}'
+   12  find . -type d -exec find \{\} -type f \; | awk -F '/' '{$NF="" print $0}'
+   13  find . -type d -exec find \{\} -type f \; | awk '{$NF="" print $0}'
+   14  find . -type d -exec find \{\} -type f \; | awk -F '/' '{$NF="" print $0}'
+   15  find . -type d -exec find \{\} -type f \; | awk -F '/' '{$NF=""; print $0}'
+   16  find . -type d -exec find \{\} -type f \; | awk -FS '/' '{$NF=""; print $0}'
+   17  find . -type d -exec find \{\} -type f \; | awk -F '/' '{$NF=""; print $0}'
+   18  find . -type d -exec find \{\} -type f \; | awk -F '/' '{$FS="/" $NF=""; print $0}'
+   19  find . -type d -exec find \{\} -type f \; | awk -F '/' '{ $NF=""; print $0}'
+   20  find . -type d -exec find \{\} -type f \; | awk -F '/' '{$FS="/"; $NF=""; print $0}'
+   21  find . -type d -exec find \{\} -type f \; | awk '{$FS="/"; $NF=""; print $0}'
+   22  find . -type d -exec find \{\} -type f \; | awk -F '/' '{ $NF=""; print $0}'
+   23  find . -type d -exec find \{\} -type f \; | awk -F '/' '/1/{ $NF=""; print $0}' 
+   24  find . -type d -exec find \{\} -type f \; | awk -F '/' '{ $NF=""; print $0}' | tr ' ' '/'
+   25  find . -type d -exec find \{\} -type f \; | awk -F '/' '{ $NF=""; print $0}' | tr ' ' '/' | sort -u
+   26  find . -type d -exec find \{\} -type f \; | awk -F '/' '{ $NF=""; print $0}' | tr ' ' '/' | sort -u | wc -l
+   27  pkill nano
+   28  man du
+   29  du -c planes/military/
+   30  du -c -B planes/military/
+   31  du -c -B planes/military/*
+   32  du -c -b planes/military/
+   33  du -c -b planes/military/ | sort -nr | head -n1
+   34  man tar
+   35  du -c -b planes/military/ | sort -nr | head -n1
+   36  exit
+   37  env
+   38  find U-2
+   39  find u
+   40  find u*
+   41  find blackbird
+   42  find blackbird*
+   43  find black*
+   44  find Black*
+   45  find F*
+   46  find f*
+   47  find 117*
+   48  find *117*
+   49  find pl*
+   50  find 117*
+   51  find *117*
+   52  find *117
+   53  find 117
+   54  find 117*
+   55  find "117*"
+   56  find 117*
+   57  find f1*
+   58  nano planes/military/mixed/f117
+   59  nano deadpresidents/johnadams
+   60  deadpresidents/johnadams
+   61  sudo deadpresidents/johnadams
+   62  nano deadpresidents/johnadams
+   63  deadpresidents/johnadams
+   64  nano deadpresidents/quincyadams
+   65  nano unclear/britain/spitfire
+   66  nano planes/none/vega
+   67  nano planes/none/saturn 
+   68  nano planes/none/p80 
+   69  nano unclear/britain/spitfire
+   70  nano ballofflame/alphacenturi
+   71  nano ballofflame/sol 
+   72  nano ballofrock/venus
+   73  nano ballofgas/jupiter
+   74  nano ballofrock/deimos
+   75  nano ballofrock/venus
+   76  nano ballofrock/themoon 
+   77  nano planes/civilian/a380
+   78  man df
+   79  df
+   80  man df
+   81  ls -l
+   82  ls -l -h
+   83  man du
+   84  du computing/*
+   85  du computing/* | awk '{print $1}'
+   86  du computing/* | awk '{print $1}' | sort -nr
+   87  du computing/* | awk '{print $1}' | sort -nr | head -n1
+   88  du computing/*
+   89  man du
+   90  du -B computing/*
+   91  du -b computing/*
+   92  du -b computing/* | awk '{print $1}' | sort -nr | head -n1
+   93  du -b computing/* | sort -nr | head -n1
+   94  man du
+   95  du -B computing/* | sort -nr | head -n1
+   96  man du
+   97  du -B computing/
+   98  du -B computing/*
+   99  ls computing/
+  100  ls -l computing/
+  101  du -B computing/
+  102  du -B computing
+  103  du -BM computing
+  104  du -Bb computing
+  105  du -Bk computing
+  106  man du
+  107  du -Bk computing
+  108  man du
+  109  du -Bk planes/military/
+  110  du -Bk planes/military
+  111  du -Bk planes/
+  112  du -r -Bk planes/
+  113  du -Bk planes/
+  114  ls -l
+  115  man ls
+  116  ls -l -d
+  117  ls -l -d ./
+  118  ls -l -d ./'
+  119  ls -l -d ./*
+  120  ls -H -l -d ./*
+  121  ls -h -l -d ./*
+  122  man 
+  123  man du
+  124  du -a -c planes/military/
+  125  du -a -c -Bk planes/military/
+  126  du -a -c -Bk planes/military/ | sort -nl
+  127  du -a -c -Bk planes/military/ | sort -n
+  128  du -a -c -Bk planes/military/ | sort -n1
+  129  du -a -c -Bk planes/military/ | sort -nr
+  130  du -a -c -Bk planes/military/ | sort -nr | head -n1
+  131  ls -l
+  132  man ls
+  133  ls -r -r computing/
+  134  man ls
+  135  ls -r -s computing/
+  136  man ls
+  137  ls -R -s -S computing/
+  138  ls -R -s -S computing/'
+  139  ls -R -s -S computing/*
+  140  ls -r -s -S computing/*
+  141  ls -r -s computing/*
+  142  ls -r -s computing/
+  143  ls -r -s -S computing/
+  144  ls computing/
+  145  ls -l computing/
+  146  ls -r -l computing/
+  147  ls -r -l computing/*
+  148  ls -R -l computing/*
+  149  ls -R computing/*
+  150  ls -r computing/*
+  151  ls -r -s computing/*
+  152  ls -r -s computing/
+  153  ls -R -s computing/
+  154  ls -R -Bk -s computing/
+  155  ls -R -H -s computing/
+  156  ls -R -h -s computing/
+  157  ls -R -h -s computing/*
+  158  ls computing/
+  159  ls computing/16kb/
+  160  ls -l computing/16kb/
+  161  man wc
+  162  ls unclear/america/
+  163  ls -l unclear/america/
+  164  man dif
+  165  man diff
+  166  ls planes/military/mixed/
+  167  find . -mindepth 1 -maxdepth 1 -not -empty -type d
+  168  find . -mindepth 1 -maxdepth 2 -not -empty -type d
+  169  find . -not -empty -type d
+  170  man printf
+  171  find . -not -empty -type d
+  172  ls unclear/europe/sweden 
+  173  ls -l unclear/europe/sweden 
+  174  man awk
+  175  man du
+  176  exit
+  177  env
+  178  man tmux
+  179  exit
+  180  bash
+  181  exit
+  182  tmux
+  183  exit
+  184  ll
+  185  exit
+  186  nano .tmux.conf 
+  187  exit
+  188  pwd
+  189  cd Downloads/
+  190  mkdir uppgift2
+  191  cd uppgift2/
+  192  ll
+  193  exit
+  194  cd Downloads/uppgift2/
+  195  nano gen
+  196  man nano
+  197  nano -G gen
+  198  man nano
+  199  nano -P gen
+  200  ps
+  201  ps aux
+  202  man head
+  203  ps aux | head 9
+  204  ps aux | head -n 9
+  205  ps aux | head -n 9 | tail -n 3
+  206  ps aux | head -n 10 | tail -n 3
+  207  ps aux | head -n 10
+  208  ps aux | head -n 10 | tail -n 3
+  209  ps aux | head -n 10 | tail -n 4
+  210  nano tar-report.sh
+  211* 
+  212  nano tar-report.sh
+  213  nano ../report.txt 
+  214  nano tar-report.sh
+  215  ll
+  216  rm tt
+  217  rm testf 
+  218  rm hi.test 
+  219  rm gg.test 
+  220  ll
+  221  rm gg
+  222  rm .report.txt.swp 
+  223  ll
+  224  nano gen 
+  225  mv gen gen-report.sh
+  226  ll
+  227  cd
+  228  cd uppgift2
+  229  ps aux > pscopy.txt
+  230  netstat -tWae > netcopy.txt
+  231  ls -al > dircopy.txt
+  232  history > histcopy.txt

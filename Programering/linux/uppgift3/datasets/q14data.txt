@@ -1,0 +1,80 @@
+2.8'Tom/Harry/BlueHarry/Tom/ Green
+3.14152.8Phil/Phil/NILLTom/Tom/001010Mon
+$$'Harry/Phil/VOIDPhil/Tom/101110BLACK
+' George/George/110110George/Harry/000111NULL
+NovtaoHarry/Phil/FebHarry/Phil/"
+$Tom/Edna/3.14Harry/Harry/ Oct
+2.83.1415Tom/Phil/fubarPhil/Phil/$$
+RedTueEdna/Tom/FebGeorge/Edna/NULLFri
+SunWHITEPhil/Harry/111001George/George/BLACK"
+$$$ Harry/George/3.14Edna/Harry/Aug 
+SepHarry/George/WHITEHarry/Edna/Red100001
+BlueAprPhil/Harry/'Harry/George/Sep"
+tao3.14Phil/Edna/fooTom/Tom/$
+VOID$$Tom/Tom/RedPhil/George/$
+BLACK$$George/George/101111Tom/Tom/''
+NILL$Edna/Edna/chiTom/Harry/fubarAug
+OrangeFebEdna/George/$$$George/Tom/phi$$
+blahfooGeorge/Harry/'Phil/George/pi 
+$blahGeorge/George/fubarHarry/Phil/110110Mon
+'$$Harry/George/George/Edna/110000
+ BLACKGeorge/Edna/YellowEdna/Phil/Monphi
+BLACKblahGeorge/Harry/ Edna/George/3.1415$
+3.14153BLACKTom/Tom/`George/Edna/ blah
+'Phil/George/BLACKPhil/Phil/Fri3.14153
+NovfooEdna/Phil/MarTom/Harry/ThuFeb
+tao111010Edna/Phil/'George/Tom/ `
+$$$Phil/Edna/MarGeorge/Edna/taotao
+SunNovTom/Tom/George/Phil/chi001000
+' George/George/blahPhil/Phil/ WHITE
+" Tom/Harry/101000George/Harry/Dec$$
+JunRedEdna/Edna/110000Phil/Harry/111000`
+NILLphiPhil/Phil/ThuHarry/Harry/blahOct
+$fubarHarry/Edna/chiGeorge/Edna/BLACK001001
+taophiHarry/Harry/chiPhil/Tom/OrangeVOID
+`TueGeorge/Harry/100001George/George/"
+GreenfubarPhil/Tom/piTom/Phil/BLACKSun
+phi$$George/Phil/fubarHarry/George/fubar"
+fubar000101George/George/fooHarry/Edna/'Mon
+NILLBLACKTom/George/FebGeorge/Harry/$$$$
+010100OrangeHarry/Phil/fubarEdna/Phil/Feb"
+110001"Phil/Harry/$$$Phil/George/$'
+$$$BLACKPhil/Harry/chiHarry/Tom/taoGreen
+pipiHarry/Edna/110101George/Tom/$$Orange
+Jan$$$Harry/George/3.1415Tom/George/111101NILL
+$$NULLHarry/Edna/OrangeTom/Harry/Thufoo
+3.14blahEdna/Phil/VOIDEdna/Edna/phi100011
+110110SunGeorge/Edna/101001Tom/Edna/piphi
+$$$3.14Edna/Phil/011111George/Edna/2.8
+YellowGreenTom/George/taoEdna/Edna/blah`
+blah$$Harry/Phil/111100Tom/Tom/ Blue
+WedGeorge/George/'George/Tom/PurpleApr
+NILLNULLGeorge/Harry/phiPhil/Phil/ NULL
+JulVOIDEdna/Phil/BLACKTom/Edna/3.1415`
+3.1415$Phil/Phil/$$Harry/Phil/3.1415Sat
+phiThuPhil/Phil/'Edna/Tom/$$$WHITE
+BLACK$$Harry/George/$Edna/Phil/May 
+BLACK101101Harry/Tom/ Phil/Tom/$BLACK
+NILL Phil/Tom/DecPhil/Edna/NULLVOID
+3.14BLACKHarry/Phil/Tom/Tom/3.14`
+chiSunEdna/Edna/3.14153Tom/Tom/BLACK"
+SatFriEdna/Edna/101001Tom/Tom/fubar3.14
+$$$JulPhil/Harry/ George/Edna/foo3.1415
+WHITEOrangeEdna/George/fooHarry/Edna/BLACK
+WHITEBLACKPhil/Harry/ Harry/Edna/Sat
+BLACKchiTom/Edna/ Tom/Tom/'
+phi'Phil/Tom/RedEdna/George/3.14foo
+3.14153000000Tom/Phil/000111George/Harry/Satpi
+`Phil/Phil/taoPhil/Tom/Greenblah
+100100TueHarry/Edna/"Harry/Phil/blah100011
+"SepHarry/Harry/SunGeorge/Harry/WHITEtao
+fubarMayHarry/Harry/NovGeorge/Tom/$$Dec
+blahRedGeorge/Tom/piGeorge/George/$$$ 
+AprBlueTom/George/Tom/George/MonWHITE
+SatWHITEHarry/Harry/001001Tom/Edna/010000phi
+PurpleNULLPhil/Tom/chiEdna/Edna/`Green
+101001 Phil/Harry/WHITETom/Phil/NovNILL
+NovNULLPhil/Tom/AprHarry/Edna/$$
+BLACK'Harry/Edna/RedGeorge/George/3.1415
+Jun011010Edna/Tom/Harry/Harry/JanFeb
+taoWHITEEdna/Edna/YellowTom/Phil/DecNILL

@@ -1,0 +1,32 @@
+1a grep -o '[(][/][0-9]*[)]' datasets/q1data.txt
+1b
+2a grep -o '[(][A-Z][a-z]*[)][-][>][A-Z][a-z]*[a-z]' datasets/q2data.txt
+2b
+3a grep -o '[(][A-Za-z]*[)]' datasets/q3data.txt
+3b
+4a grep -o '[-][>][-][>][-][>]' datasets/q4data.txt
+4b
+5a grep -o '[[][]{+-]*[}]' datasets/q5data.txt
+5b
+6a grep -o '[+-][:;]*[+-]*[:;]*[:]' datasets/q6data.txt
+6b
+7a grep -o '[H,T,G,P,E][a-z]*[-<][>-][H,T,G,P,E][a-z]*[-<][>-]' datasets/q7data.txt
+7b
+8a grep -o '[(][-><)\/]*[.,]' datasets/q8data.txt
+8b
+9a grep -o '[{][/\][}][<>-]*[A-Z][a-z]*' datasets/q9data.txt
+9b
+10a grep -o '[0-9][0-9][0-9][0-9][/\][/\]\|[(][/\][)]' datasets/q10data.txt
+10b
+11a sed 's:.*[[]\(.*\)[]].*:\1:;s/$/]{::->}/;s/^/(0535Edna)[/p' datasets/q11data.txt
+11b
+12a sed -n 's:.*[(]\(.*\)[a-z]*[:].*:\1:;s/$/:{George}::,/;s/^/8441Tom->(/p' datasets/q12data.txt
+12b
+13a
+13b
+14a
+14b
+15a
+15b
+16a
+16b

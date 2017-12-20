@@ -1,0 +1,224 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0 119640  5768 ?        Ss   Nov02   0:03 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    Nov02   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Nov02   0:05 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    Nov02   7:02 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    Nov02   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    Nov02   0:00 [migration/0]
+root        10  0.0  0.0      0     0 ?        S    Nov02   0:02 [watchdog/0]
+root        11  0.0  0.0      0     0 ?        S    Nov02   0:02 [watchdog/1]
+root        12  0.0  0.0      0     0 ?        S    Nov02   0:00 [migration/1]
+root        13  0.0  0.0      0     0 ?        S    Nov02   0:00 [ksoftirqd/1]
+root        15  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/1:0H]
+root        16  0.0  0.0      0     0 ?        S    Nov02   0:02 [watchdog/2]
+root        17  0.0  0.0      0     0 ?        S    Nov02   0:00 [migration/2]
+root        18  0.0  0.0      0     0 ?        S    Nov02   0:00 [ksoftirqd/2]
+root        20  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/2:0H]
+root        21  0.0  0.0      0     0 ?        S    Nov02   0:02 [watchdog/3]
+root        22  0.0  0.0      0     0 ?        S    Nov02   0:00 [migration/3]
+root        23  0.0  0.0      0     0 ?        S    Nov02   0:00 [ksoftirqd/3]
+root        25  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/3:0H]
+root        26  0.0  0.0      0     0 ?        S    Nov02   0:02 [watchdog/4]
+root        27  0.0  0.0      0     0 ?        S    Nov02   0:00 [migration/4]
+root        28  0.0  0.0      0     0 ?        S    Nov02   0:00 [ksoftirqd/4]
+root        30  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/4:0H]
+root        31  0.0  0.0      0     0 ?        S    Nov02   0:02 [watchdog/5]
+root        32  0.0  0.0      0     0 ?        S    Nov02   0:00 [migration/5]
+root        33  0.0  0.0      0     0 ?        S    Nov02   0:00 [ksoftirqd/5]
+root        35  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/5:0H]
+root        36  0.0  0.0      0     0 ?        S    Nov02   0:01 [watchdog/6]
+root        37  0.0  0.0      0     0 ?        S    Nov02   0:00 [migration/6]
+root        38  0.0  0.0      0     0 ?        S    Nov02   0:00 [ksoftirqd/6]
+root        40  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/6:0H]
+root        41  0.0  0.0      0     0 ?        S    Nov02   0:02 [watchdog/7]
+root        42  0.0  0.0      0     0 ?        S    Nov02   0:00 [migration/7]
+root        43  0.0  0.0      0     0 ?        S    Nov02   0:00 [ksoftirqd/7]
+root        45  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/7:0H]
+root        46  0.0  0.0      0     0 ?        S    Nov02   0:00 [kdevtmpfs]
+root        47  0.0  0.0      0     0 ?        S<   Nov02   0:00 [netns]
+root        48  0.0  0.0      0     0 ?        S<   Nov02   0:00 [perf]
+root        49  0.0  0.0      0     0 ?        S    Nov02   0:00 [khungtaskd]
+root        50  0.0  0.0      0     0 ?        S<   Nov02   0:00 [writeback]
+root        51  0.0  0.0      0     0 ?        SN   Nov02   0:00 [ksmd]
+root        52  0.0  0.0      0     0 ?        SN   Nov02   0:08 [khugepaged]
+root        53  0.0  0.0      0     0 ?        S<   Nov02   0:00 [crypto]
+root        54  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kintegrityd]
+root        55  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        56  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kblockd]
+root        57  0.0  0.0      0     0 ?        S<   Nov02   0:00 [ata_sff]
+root        58  0.0  0.0      0     0 ?        S<   Nov02   0:00 [md]
+root        59  0.0  0.0      0     0 ?        S<   Nov02   0:00 [devfreq_wq]
+root        63  0.0  0.0      0     0 ?        S    Nov02   0:00 [kswapd0]
+root        64  0.0  0.0      0     0 ?        S<   Nov02   0:00 [vmstat]
+root        65  0.0  0.0      0     0 ?        S    Nov02   0:00 [fsnotify_mark]
+root        66  0.0  0.0      0     0 ?        S    Nov02   0:00 [ecryptfs-kthrea]
+root        82  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kthrotld]
+root        83  0.0  0.0      0     0 ?        S<   Nov02   0:00 [acpi_thermal_pm]
+root        84  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        86  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        87  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        88  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        89  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        90  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        91  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        92  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        93  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        94  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        95  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        96  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        97  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        98  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root        99  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root       100  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root       101  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root       102  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root       103  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root       104  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root       105  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root       106  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root       107  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root       108  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root       113  0.0  0.0      0     0 ?        S<   Nov02   0:00 [ipv6_addrconf]
+root       126  0.0  0.0      0     0 ?        S<   Nov02   0:00 [deferwq]
+root       127  0.0  0.0      0     0 ?        S<   Nov02   0:00 [charger_manager]
+root       172  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kpsmoused]
+root       174  0.0  0.0      0     0 ?        S    Nov02   0:00 [scsi_eh_0]
+root       175  0.0  0.0      0     0 ?        S<   Nov02   0:00 [scsi_tmf_0]
+root       176  0.0  0.0      0     0 ?        S    Nov02   0:00 [scsi_eh_1]
+root       177  0.0  0.0      0     0 ?        S<   Nov02   0:00 [scsi_tmf_1]
+root       178  0.0  0.0      0     0 ?        S    Nov02   0:00 [scsi_eh_2]
+root       179  0.0  0.0      0     0 ?        S<   Nov02   0:00 [scsi_tmf_2]
+root       180  0.0  0.0      0     0 ?        S    Nov02   0:00 [scsi_eh_3]
+root       181  0.0  0.0      0     0 ?        S<   Nov02   0:00 [scsi_tmf_3]
+root       182  0.0  0.0      0     0 ?        S    Nov02   0:00 [scsi_eh_4]
+root       183  0.0  0.0      0     0 ?        S<   Nov02   0:00 [scsi_tmf_4]
+root       195  0.0  0.0      0     0 ?        S<   Nov02   0:00 [bioset]
+root       219  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/0:1H]
+root       221  0.0  0.0      0     0 ?        S    Nov02   0:01 [jbd2/sda1-8]
+root       222  0.0  0.0      0     0 ?        S<   Nov02   0:00 [ext4-rsv-conver]
+root       260  0.0  0.0      0     0 ?        S    Nov02   0:00 [kauditd]
+root       265  0.0  0.0  35376  6292 ?        Ss   Nov02   0:01 /lib/systemd/systemd-journald
+root       281  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/7:1H]
+root       282  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/1:1H]
+root       286  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/5:1H]
+root       304  0.0  0.0  38624  3984 ?        Ss   Nov02   0:00 /lib/systemd/systemd-udevd
+root       396  0.0  0.0      0     0 ?        S    Nov02   0:00 [irq/124-mei_me]
+root       457  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/2:1H]
+root       458  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/6:1H]
+root       487  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kvm-irqfd-clean]
+root       549  0.0  0.0      0     0 ?        S    Nov02   0:00 [jbd2/sda2-8]
+root       550  0.0  0.0      0     0 ?        S<   Nov02   0:00 [ext4-rsv-conver]
+root       551  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/4:1H]
+root       601  0.0  0.0  96528  6416 ?        Ss   Nov02   0:00 /lib/systemd/systemd-logind
+root       602  0.0  0.0  21444  2728 ?        Ss   Nov02   0:00 /usr/sbin/cron -f
+syslog     604  0.0  0.0 322092  6564 ?        Ssl  Nov02   0:00 /usr/sbin/rsyslogd -n
+root       606  0.0  0.0 336532 10092 ?        Ssl  Nov02   0:10 /usr/lib/accountsservice/accounts-daemon
+message+   613  0.0  0.0 111568  8168 ?        Ss   Nov02   0:02 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root       680  0.0  0.1 489228 19664 ?        Ssl  Nov02   0:12 /usr/sbin/NetworkManager --no-daemon
+root       706  0.0  0.0 412064  9608 ?        SLsl Nov02   0:00 /usr/sbin/lightdm
+root       773  0.0  0.0  61340  5596 ?        Ss   Nov02   0:00 /usr/sbin/sshd -D
+root       782  0.0  0.0 341932 13516 ?        Ssl  Nov02   0:01 /usr/lib/policykit-1/polkitd --no-debug
+root       956  0.0  0.0  16124  3664 ?        S    Nov02   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-eno1.pid -lf /var/lib/NetworkManager/dhclient-95b50478-6717-3b03-bee5-0eb53fddf5e4-eno1.lease -cf /var/lib/NetworkManager/dhclient-eno1.conf eno1
+nobody     970  0.0  0.0  45332  3848 ?        S    Nov02   0:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      1018  0.0  0.0   6700  1472 tty1     Ss+  Nov02   0:00 /sbin/agetty --noclear tty1 linux
+ntp       1028  0.0  0.0 173756  8564 ?        Ss   Nov02   0:36 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 108:113
+root      1038  0.0  0.0      0     0 ?        S<   Nov02   0:00 [iprt-VBoxWQueue]
+root      1063  0.0  0.0      0     0 ?        S    Nov02   0:00 [iprt-VBoxTscThr]
+root      1185  0.0  0.0      0     0 ?        S<   Nov02   0:00 [kworker/3:1H]
+root      1272  0.0  0.0 345888  9348 ?        Ssl  Nov02   0:00 /usr/lib/upower/upowerd
+root      2001  0.0  0.0 361112 10388 ?        Ssl  Nov02   0:39 /usr/lib/udisks2/udisksd --no-debug
+bjbl15    6936  0.0  0.0      0     0 ?        Zs   08:15   0:00 [bash] <defunct>
+bjbl15    6948  0.0  0.0      0     0 ?        Zs   08:15   0:00 [bash] <defunct>
+root      8520  0.0  0.0      0     0 ?        S    08:32   0:00 [kworker/4:2]
+root      8712  0.0  0.0      0     0 ?        S    08:43   0:00 [kworker/1:1]
+bjbl15    8758  0.0  0.0  92332  7616 pts/16   T    08:47   0:00 nano tar-report.sh
+root      8779  0.0  0.0      0     0 ?        S    08:49   0:00 [kworker/0:0]
+root      8805  0.0  0.0      0     0 ?        S    08:53   0:00 [kworker/1:2]
+bjbl15    8825  0.0  0.0  92464  7860 pts/16   T    08:55   0:00 nano tar-report.sh
+root      8929  0.0  0.0      0     0 ?        S    09:02   0:00 [kworker/2:2]
+root      8938  0.0  0.0      0     0 ?        S    09:03   0:00 [kworker/0:1]
+root      8939  0.0  0.0      0     0 ?        S    09:04   0:00 [kworker/u16:1]
+root      8984  0.0  0.0      0     0 ?        S    09:07   0:00 [kworker/3:0]
+root      8998  0.0  0.0      0     0 ?        S    09:07   0:00 [kworker/7:0]
+bjbl15    9005  0.0  0.0 184772  5140 ?        Sl   09:08   0:00 /usr/lib/gvfs/gvfsd-metadata
+bjbl15    9035  0.0  0.0 172736 15744 ?        Ss   09:08   0:00 kdeinit4: kdeinit4 Running...
+bjbl15    9038  0.0  0.1 196196 17888 ?        S    09:08   0:00 kdeinit4: klauncher [kdeinit] --fd=8
+bjbl15    9040  0.0  0.2 406536 39980 ?        S    09:08   0:00 kdeinit4: kded4 [kdeinit]
+bjbl15    9049  0.0  0.1 606844 30028 ?        Sl   09:08   0:00 /usr/bin/kactivitymanagerd start-daemon
+root      9062  0.0  0.0      0     0 ?        S    09:08   0:00 [kworker/1:0]
+root      9104  0.0  0.0      0     0 ?        S    09:09   0:00 [kworker/0:2]
+bjbl15    9198  0.0  0.0 104120  6724 pts/16   R+   09:13   0:00 ps aux
+root     10527  0.0  0.0      0     0 ?        S    00:15   0:00 [kworker/3:1]
+jata15   10627  0.0  0.0 113192  8184 ?        Ss   Nov03   0:00 /lib/systemd/systemd --user
+jata15   10629  0.0  0.0 283260  2932 ?        S    Nov03   0:00 (sd-pam)
+jata15   11795  0.0  0.0  23740  6656 ?        Ss   Nov03   0:03 tmux -u -2 -f /usr/share/byobu/profiles/tmuxrc new-session -n - /usr/bin/byobu-shell
+jata15   11803  0.0  0.0  89648  6768 pts/3    Ss   Nov03   0:00 -csh -c /usr/bin/byobu-shell
+jata15   11845  0.0  0.0  90144  7492 pts/3    S    Nov03   0:00 -usr/local/bin/tcsh
+jata15   11908  0.0  0.0  90272  7620 pts/3    S+   Nov03   0:00 bash
+root     12188  0.0  0.0      0     0 ?        S    07:11   0:02 [kworker/u16:0]
+root     12200  0.0  0.0 364092 14964 ?        SLl  07:12   0:00 lightdm --session-child 14 21
+root     12201  0.0  0.0   6700  1716 tty2     Ss+  07:13   0:00 /sbin/agetty --noclear tty2 linux
+root     12205  0.0  0.0   6700  1576 tty3     Ss+  07:13   0:00 /sbin/agetty --noclear tty3 linux
+root     12215  0.0  0.0   6700  1644 tty6     Ss+  07:13   0:00 /sbin/agetty --noclear tty6 linux
+root     12266  0.0  0.0      0     0 ?        S    07:14   0:00 [kworker/6:0]
+bjbl15   12276  0.0  0.0 113192  8272 ?        Ss   07:14   0:00 /lib/systemd/systemd --user
+bjbl15   12278  0.0  0.0 283260  2932 ?        S    07:14   0:00 (sd-pam)
+bjbl15   12281  0.0  0.0 113084  8160 ?        Ss   07:14   0:00 /sbin/upstart --user
+bjbl15   12361  0.0  0.0  31652   292 ?        S    07:14   0:00 upstart-udev-bridge --daemon --user
+bjbl15   12365  0.0  0.0  11140   316 ?        Ss   07:14   0:00 ssh-agent -s
+bjbl15   12370  0.0  0.0 111320  4664 ?        Ss   07:14   0:00 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-OD7aBz9aSw
+bjbl15   12402  0.0  0.0  31588   308 ?        S    07:14   0:00 upstart-dbus-bridge --daemon --session --user --bus-name session
+bjbl15   12404  0.0  0.0  31588   312 ?        S    07:14   0:00 upstart-dbus-bridge --daemon --system --user --bus-name system
+bjbl15   12410  0.0  0.0 108008  1092 ?        S    07:14   0:00 upstart-file-bridge --daemon --user
+bjbl15   12411  0.0  0.0 165332   608 ?        Ss   07:14   0:00 gpg-agent --homedir /home/saxon/students/20152/bjbl15/.gnupg --use-standard-socket --daemon
+bjbl15   12413  0.3  0.0 479748  9444 ?        Ssl  07:14   0:23 /usr/bin/ibus-daemon --daemonize --xim
+bjbl15   12420  0.0  0.0 273216  6280 ?        Sl   07:14   0:00 /usr/lib/gvfs/gvfsd
+bjbl15   12429  0.0  0.0 263036  6052 ?        Sl   07:14   0:00 /usr/lib/ibus/ibus-dconf
+bjbl15   12430  0.0  0.1 447664 30184 ?        Sl   07:14   0:01 /usr/lib/ibus/ibus-ui-gtk3
+bjbl15   12432  0.2  0.1 321952 19776 ?        Sl   07:14   0:14 /usr/lib/ibus/ibus-x11 --kill-daemon
+bjbl15   12443  0.1  0.0 187180  5312 ?        Sl   07:14   0:08 /usr/lib/ibus/ibus-engine-simple
+bjbl15   12456  0.0  0.2 899856 34648 ?        Ssl  07:14   0:00 /usr/lib/unity-settings-daemon/unity-settings-daemon
+bjbl15   12457  0.0  0.1 418836 26640 ?        Ssl  07:14   0:04 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+bjbl15   12462  1.6  0.9 1577216 156756 ?      Ssl  07:14   1:56 compiz
+bjbl15   12463  0.0  0.0 337908  5700 ?        Ssl  07:14   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+bjbl15   12464  0.0  0.1 620892 17916 ?        Ssl  07:14   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+bjbl15   12473  0.0  0.1 526720 28808 ?        Ssl  07:14   0:00 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+bjbl15   12474  0.0  0.0 110856  7736 ?        S    07:14   0:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+bjbl15   12489  0.0  0.0 178532  4672 ?        Sl   07:14   0:00 /usr/lib/dconf/dconf-service
+bjbl15   12499  0.0  0.0 206868  5032 ?        Sl   07:14   0:01 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+bjbl15   12504  0.0  0.0 405816  5532 ?        Ssl  07:14   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+bjbl15   12505  0.0  0.0 427592  7676 ?        Ssl  07:14   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+bjbl15   12507  0.0  0.1 649128 18864 ?        Ssl  07:14   0:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+bjbl15   12512  0.0  0.1 596792 27912 ?        Ssl  07:14   0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+bjbl15   12513  0.0  0.0 723568 13652 ?        Ssl  07:14   0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+bjbl15   12514  0.0  0.0 951836 10752 ?        Ssl  07:14   0:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+bjbl15   12521  0.0  0.0 395940 14456 ?        Ssl  07:14   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+bjbl15   12565  0.0  0.0 406724 10428 ?        Sl   07:14   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+bjbl15   12574  0.0  0.1 323728 18444 ?        Sl   07:14   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+bjbl15   12575  0.0  0.1 547208 18608 ?        Sl   07:14   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+bjbl15   12578  0.1  0.3 1458908 64656 ?       Sl   07:14   0:10 nautilus -n
+bjbl15   12593  0.0  0.0 345704 10676 ?        Sl   07:14   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+bjbl15   12605  0.0  0.0 349344  6428 ?        Sl   07:14   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+bjbl15   12617  4.9  2.3 2395216 389336 ?      Sl   07:14   5:53 /usr/lib/firefox/firefox
+bjbl15   12661  0.0  0.0 121580  8668 ?        S    07:14   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+bjbl15   12685  7.3  3.2 2967736 534420 ?      Sl   07:14   8:44 /usr/lib/firefox/plugin-container -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 12617 true tab
+bjbl15   12767  0.4  0.2 482620 39148 ?        Sl   07:15   0:34 /usr/lib/gnome-terminal/gnome-terminal-server
+bjbl15   12795  0.0  0.1 701980 19412 ?        Sl   07:15   0:00 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+bjbl15   12805  0.0  0.1 707332 25304 ?        Sl   07:15   0:00 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+bjbl15   12807  0.0  0.1 605712 18220 ?        Sl   07:15   0:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+bjbl15   12862  0.0  0.1 481000 26184 ?        Sl   07:15   0:00 update-notifier
+bjbl15   12877  0.0  0.0  90148  7524 pts/6    Ss   07:15   0:00 -csh
+bjbl15   12880  0.0  0.0  90212  7624 pts/6    S    07:15   0:00 bash
+root     12966  0.0  0.0      0     0 ?        S    07:22   0:02 [kworker/u16:2]
+root     13427  0.0  0.0      0     0 ?        S    07:35   0:00 [kworker/6:1]
+root     13443  0.0  0.0      0     0 ?        S    07:36   0:00 [kworker/2:1]
+bjbl15   13545  0.0  0.0  17956  2684 pts/6    S+   07:41   0:00 tmux
+bjbl15   13547  0.1  0.0  22600  5396 ?        Ss   07:41   0:08 tmux
+bjbl15   13560  0.0  0.0  90264  7608 pts/17   Ss+  07:41   0:00 -bash
+bjbl15   13638  0.0  0.0  90264  7464 pts/16   Ss   07:46   0:00 -bash
+root     15974  0.0  0.0      0     0 ?        S    07:59   0:00 [kworker/5:0]
+root     18200  0.0  0.8 499684 141444 tty7    Ss+  Nov03   3:22 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root     22006  0.0  0.0      0     0 ?        S    Nov04   0:00 [kworker/4:1]
+root     27368  0.0  0.0      0     0 ?        S    Nov05   0:00 [kworker/7:2]
+root     29707  0.0  0.0      0     0 ?        S    Nov05   0:04 [kworker/5:1]

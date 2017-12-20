@@ -1,0 +1,80 @@
+[97m2.8[97m'[91mTom/Harry/[97mBlue[91mHarry/Tom/[97m [97mGreen
+[97m3.1415[97m2.8[91mPhil/Phil/[97mNILL[91mTom/Tom/[97m001010[97mMon
+[97m$$[97m'[91mHarry/Phil/[97mVOID[91mPhil/Tom/[97m101110[97mBLACK
+[97m'[97m [91mGeorge/George/[97m110110[91mGeorge/Harry/[97m000111[97mNULL
+[97mNov[97mtao[91mHarry/Phil/[97mFeb[91mHarry/Phil/[97m[97m"
+[97m[97m$[91mTom/Edna/[97m3.14[91mHarry/Harry/[97m [97mOct
+[97m2.8[97m3.1415[91mTom/Phil/[97mfubar[91mPhil/Phil/[97m$$[97m
+[97mRed[97mTue[91mEdna/Tom/[97mFeb[91mGeorge/Edna/[97mNULL[97mFri
+[97mSun[97mWHITE[91mPhil/Harry/[97m111001[91mGeorge/George/[97mBLACK[97m"
+[97m$$$[97m [91mHarry/George/[97m3.14[91mEdna/Harry/[97mAug[97m 
+[97mSep[97m[91mHarry/George/[97mWHITE[91mHarry/Edna/[97mRed[97m100001
+[97mBlue[97mApr[91mPhil/Harry/[97m'[91mHarry/George/[97mSep[97m"
+[97mtao[97m3.14[91mPhil/Edna/[97mfoo[91mTom/Tom/[97m$[97m
+[97mVOID[97m$$[91mTom/Tom/[97mRed[91mPhil/George/[97m$[97m
+[97mBLACK[97m$$[91mGeorge/George/[97m101111[91mTom/Tom/[97m'[97m'
+[97mNILL[97m$[91mEdna/Edna/[97mchi[91mTom/Harry/[97mfubar[97mAug
+[97mOrange[97mFeb[91mEdna/George/[97m$$$[91mGeorge/Tom/[97mphi[97m$$
+[97mblah[97mfoo[91mGeorge/Harry/[97m'[91mPhil/George/[97mpi[97m 
+[97m$[97mblah[91mGeorge/George/[97mfubar[91mHarry/Phil/[97m110110[97mMon
+[97m'[97m$$[91mHarry/George/[97m[91mGeorge/Edna/[97m[97m110000
+[97m [97mBLACK[91mGeorge/Edna/[97mYellow[91mEdna/Phil/[97mMon[97mphi
+[97mBLACK[97mblah[91mGeorge/Harry/[97m [91mEdna/George/[97m3.1415[97m$
+[97m3.14153[97mBLACK[91mTom/Tom/[97m`[91mGeorge/Edna/[97m [97mblah
+[97m[97m'[91mPhil/George/[97mBLACK[91mPhil/Phil/[97mFri[97m3.14153
+[97mNov[97mfoo[91mEdna/Phil/[97mMar[91mTom/Harry/[97mThu[97mFeb
+[97mtao[97m111010[91mEdna/Phil/[97m'[91mGeorge/Tom/[97m [97m`
+[97m$$$[97m[91mPhil/Edna/[97mMar[91mGeorge/Edna/[97mtao[97mtao
+[97mSun[97mNov[91mTom/Tom/[97m[91mGeorge/Phil/[97mchi[97m001000
+[97m'[97m [91mGeorge/George/[97mblah[91mPhil/Phil/[97m [97mWHITE
+[97m"[97m [91mTom/Harry/[97m101000[91mGeorge/Harry/[97mDec[97m$$
+[97mJun[97mRed[91mEdna/Edna/[97m110000[91mPhil/Harry/[97m111000[97m`
+[97mNILL[97mphi[91mPhil/Phil/[97mThu[91mHarry/Harry/[97mblah[97mOct
+[97m$[97mfubar[91mHarry/Edna/[97mchi[91mGeorge/Edna/[97mBLACK[97m001001
+[97mtao[97mphi[91mHarry/Harry/[97mchi[91mPhil/Tom/[97mOrange[97mVOID
+[97m`[97mTue[91mGeorge/Harry/[97m100001[91mGeorge/George/[97m"[97m
+[97mGreen[97mfubar[91mPhil/Tom/[97mpi[91mTom/Phil/[97mBLACK[97mSun
+[97mphi[97m$$[91mGeorge/Phil/[97mfubar[91mHarry/George/[97mfubar[97m"
+[97mfubar[97m000101[91mGeorge/George/[97mfoo[91mHarry/Edna/[97m'[97mMon
+[97mNILL[97mBLACK[91mTom/George/[97mFeb[91mGeorge/Harry/[97m$$[97m$$
+[97m010100[97mOrange[91mHarry/Phil/[97mfubar[91mEdna/Phil/[97mFeb[97m"
+[97m110001[97m"[91mPhil/Harry/[97m$$$[91mPhil/George/[97m$[97m'
+[97m$$$[97mBLACK[91mPhil/Harry/[97mchi[91mHarry/Tom/[97mtao[97mGreen
+[97mpi[97mpi[91mHarry/Edna/[97m110101[91mGeorge/Tom/[97m$$[97mOrange
+[97mJan[97m$$$[91mHarry/George/[97m3.1415[91mTom/George/[97m111101[97mNILL
+[97m$$[97mNULL[91mHarry/Edna/[97mOrange[91mTom/Harry/[97mThu[97mfoo
+[97m3.14[97mblah[91mEdna/Phil/[97mVOID[91mEdna/Edna/[97mphi[97m100011
+[97m110110[97mSun[91mGeorge/Edna/[97m101001[91mTom/Edna/[97mpi[97mphi
+[97m$$$[97m3.14[91mEdna/Phil/[97m011111[91mGeorge/Edna/[97m2.8[97m
+[97mYellow[97mGreen[91mTom/George/[97mtao[91mEdna/Edna/[97mblah[97m`
+[97mblah[97m$$[91mHarry/Phil/[97m111100[91mTom/Tom/[97m [97mBlue
+[97mWed[97m[91mGeorge/George/[97m'[91mGeorge/Tom/[97mPurple[97mApr
+[97mNILL[97mNULL[91mGeorge/Harry/[97mphi[91mPhil/Phil/[97m [97mNULL
+[97mJul[97mVOID[91mEdna/Phil/[97mBLACK[91mTom/Edna/[97m3.1415[97m`
+[97m3.1415[97m$[91mPhil/Phil/[97m$$[91mHarry/Phil/[97m3.1415[97mSat
+[97mphi[97mThu[91mPhil/Phil/[97m'[91mEdna/Tom/[97m$$$[97mWHITE
+[97mBLACK[97m$$[91mHarry/George/[97m$[91mEdna/Phil/[97mMay[97m 
+[97mBLACK[97m101101[91mHarry/Tom/[97m [91mPhil/Tom/[97m$[97mBLACK
+[97mNILL[97m [91mPhil/Tom/[97mDec[91mPhil/Edna/[97mNULL[97mVOID
+[97m3.14[97mBLACK[91mHarry/Phil/[97m[91mTom/Tom/[97m3.14[97m`
+[97mchi[97mSun[91mEdna/Edna/[97m3.14153[91mTom/Tom/[97mBLACK[97m"
+[97mSat[97mFri[91mEdna/Edna/[97m101001[91mTom/Tom/[97mfubar[97m3.14
+[97m$$$[97mJul[91mPhil/Harry/[97m [91mGeorge/Edna/[97mfoo[97m3.1415
+[97mWHITE[97mOrange[91mEdna/George/[97mfoo[91mHarry/Edna/[97m[97mBLACK
+[97mWHITE[97mBLACK[91mPhil/Harry/[97m [91mHarry/Edna/[97m[97mSat
+[97mBLACK[97mchi[91mTom/Edna/[97m [91mTom/Tom/[97m'[97m
+[97mphi[97m'[91mPhil/Tom/[97mRed[91mEdna/George/[97m3.14[97mfoo
+[97m3.14153[97m000000[91mTom/Phil/[97m000111[91mGeorge/Harry/[97mSat[97mpi
+[97m[97m`[91mPhil/Phil/[97mtao[91mPhil/Tom/[97mGreen[97mblah
+[97m100100[97mTue[91mHarry/Edna/[97m"[91mHarry/Phil/[97mblah[97m100011
+[97m"[97mSep[91mHarry/Harry/[97mSun[91mGeorge/Harry/[97mWHITE[97mtao
+[97mfubar[97mMay[91mHarry/Harry/[97mNov[91mGeorge/Tom/[97m$$[97mDec
+[97mblah[97mRed[91mGeorge/Tom/[97mpi[91mGeorge/George/[97m$$$[97m 
+[97mApr[97mBlue[91mTom/George/[97m[91mTom/George/[97mMon[97mWHITE
+[97mSat[97mWHITE[91mHarry/Harry/[97m001001[91mTom/Edna/[97m010000[97mphi
+[97mPurple[97mNULL[91mPhil/Tom/[97mchi[91mEdna/Edna/[97m`[97mGreen
+[97m101001[97m [91mPhil/Harry/[97mWHITE[91mTom/Phil/[97mNov[97mNILL
+[97mNov[97mNULL[91mPhil/Tom/[97mApr[91mHarry/Edna/[97m$$[97m
+[97mBLACK[97m'[91mHarry/Edna/[97mRed[91mGeorge/George/[97m[97m3.1415
+[97mJun[97m011010[91mEdna/Tom/[97m[91mHarry/Harry/[97mJan[97mFeb
+[97mtao[97mWHITE[91mEdna/Edna/[97mYellow[91mTom/Phil/[97mDec[97mNILL

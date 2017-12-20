@@ -1,0 +1,80 @@
+100101BLACK(Harry)[Tom]{Harry}tao(Phil)[Harry]{Harry}111101chi
+ Sun(Edna)[Tom]{Tom}3.14(Edna)[George]{Tom}NILLfoo
+Wed000000(Phil)[Tom]{Harry}Mon(Harry)[Harry]{Phil}PurplePurple
+Mon(Phil)[Edna]{Harry}Purple(Harry)[Edna]{George}$WHITE
+Thuphi(Tom)[Tom]{Tom}Tue(George)[George]{Phil}Sat
+BLACK011000(Tom)[Tom]{George}110000(Harry)[Edna]{Tom}`100000
+NILLVOID(Phil)[Phil]{Edna}001000(Edna)[Phil]{George}Jun011111
+`3.14153(George)[George]{Harry}$$(Tom)[Phil]{Phil}'Sun
+BlueWHITE(Edna)[Phil]{Phil}WHITE(Harry)[Harry]{George}NILL$$
+RedGreen(Tom)[George]{Phil}$$(George)[Harry]{Edna}$$Blue
+phi3.14(George)[Harry]{Edna}foo(Phil)[Phil]{George}phiRed
+$3.14(George)[Tom]{Harry}3.1415(Harry)[Phil]{George}2.8NULL
+100010'(Harry)[Edna]{Tom}WHITE(George)[George]{George}110101NULL
+Sat2.8(Tom)[Edna]{George}WHITE(Phil)[Harry]{Phil}blahNov
+WHITE'(Edna)[Phil]{Edna}Yellow(Tom)[George]{Phil}WHITE3.1415
+blahMon(Phil)[Phil]{Edna}$$$(Phil)[Harry]{George}011001WHITE
+Wed(Tom)[Harry]{Phil}3.14153(Harry)[Harry]{Phil}TueOrange
+chi$(George)[Phil]{Phil}Thu(George)[Edna]{George}VOIDGreen
+OctRed(Phil)[Tom]{Edna}pi(Tom)[Phil]{Phil}Feb2.8
+phi (Phil)[Harry]{Phil}chi(Harry)[Phil]{Tom}`3.14
+0011003.14153(George)[Tom]{George}Nov(George)[Harry]{Phil}3.14152.8
+$$$Fri(Edna)[Edna]{Tom}000101(Harry)[Edna]{Harry}Sunchi
+WHITEWed(Phil)[George]{George}Jan(George)[Edna]{George}Purple 
+BLACK'(Harry)[Phil]{Phil}"(Edna)[Harry]{Harry}2.8Green
+NULLThu(Tom)[Harry]{Harry}'(Harry)[George]{Harry}chiOct
+RedWed(Harry)[Phil]{Tom}tao(Edna)[Edna]{Edna} '
+`Fri(Phil)[George]{Edna}blah(George)[George]{Harry}3.14"
+100001$$$(Phil)[Harry]{George}3.14153(Harry)[Phil]{Harry}phitao
+pi3.14(George)[Tom]{Phil}Purple(Edna)[Edna]{Phil}3.14$
+3.1415'(Edna)[George]{Phil}Mar(Phil)[Harry]{Edna}BLACKApr
+pipi(Phil)[Edna]{George}Orange(Tom)[George]{Edna}fubar
+3.14011110(George)[Edna]{Phil}WHITE(Phil)[Phil]{Tom}SunApr
+3.1415100111(Tom)[Phil]{Phil}`(Phil)[George]{George}BLACKWHITE
+001011Fri(Phil)[Edna]{Edna}Mar(Edna)[Tom]{Edna}Feb
+ Sun(Harry)[George]{Harry}Blue(Harry)[Edna]{Tom}$Fri
+Junchi(Harry)[Edna]{Harry}111011(George)[Tom]{Harry}'tao
+`$(Phil)[Harry]{Harry}foo(Harry)[Edna]{Tom}0101102.8
+2.8Sep(George)[Phil]{Edna}'(Phil)[Harry]{Tom}NILL`
+fubarSep(George)[George]{George}(George)[Phil]{Edna}SatDec
+$$$Mon(Phil)[Harry]{Edna}3.14(Tom)[George]{Harry}$$$$$$
+BLACK110011(Phil)[George]{Edna}3.1415(Harry)[Phil]{Harry}0000013.14
+NILL$$$(George)[Phil]{Harry}100110(Tom)[Harry]{Harry} Mar
+Satfubar(Phil)[George]{George}3.1415(Edna)[George]{Harry}Red 
+Bluetao(George)[Edna]{Harry}WHITE(Phil)[Harry]{Edna}100001May
+AprSun(Phil)[Tom]{George}3.1415(George)[George]{Harry}001110Nov
+ 011011(Edna)[Tom]{Tom}Green(Harry)[Edna]{George}piBLACK
+tao100000(George)[Tom]{Edna}`(Tom)[Phil]{Edna}NULLMon
+NILLphi(George)[George]{George}Green(Harry)[George]{Harry}fubarSun
+SepFri(George)[Edna]{Phil}foo(Tom)[Harry]{Edna}`fubar
+WHITE`(George)[Phil]{Harry} (Tom)[George]{Edna}101101Purple
+3.1415blah(Tom)[George]{Tom}VOID(Harry)[Edna]{Harry}TueWHITE
+Aprchi(Harry)[Tom]{Harry} (Tom)[Harry]{George}3.1415Thu
+Thu$$$(George)[Tom]{Phil}2.8(Tom)[George]{Edna}VOIDMon
+TueNILL(George)[George]{George}Tue(Harry)[George]{Edna}`VOID
+MonGreen(Harry)[Edna]{George}Apr(George)[Tom]{Tom}110101BLACK
+011110Sun(Edna)[Edna]{Edna}WHITE(George)[Edna]{Harry}$$Tue
+000100$$$(Phil)[George]{Tom}pi(Tom)[Harry]{Tom}010101phi
+fubar (George)[George]{Tom}"(George)[Tom]{Phil}3.1415 
+"Jun(Phil)[Phil]{Tom}Purple(Harry)[Phil]{Tom} Tue
+3.14Jul(Phil)[George]{Tom}Apr(Edna)[Phil]{George}VOIDSun
+phiWHITE(Edna)[Harry]{Harry}foo(Phil)[Tom]{Phil}BLACK"
+NULLApr(Edna)[Edna]{Phil}Red(Harry)[Tom]{George} Tue
+ThuBLACK(Tom)[Harry]{Harry}$$(Harry)[Edna]{Edna}$$tao
+blahPurple(George)[Edna]{Phil}WHITE(Edna)[Edna]{George}BLACK
+SunTue(Edna)[George]{Harry}BLACK(Tom)[Harry]{Tom}fubarNILL
+3.1415pi(Edna)[Tom]{Harry}$$$(Tom)[Tom]{Edna}"Green
+chiBLACK(Tom)[Tom]{Harry}WHITE(Phil)[Edna]{Edna}001100fubar
+"$$$(Harry)[Tom]{Phil}Orange(George)[Edna]{Tom}3.14153
+WHITEGreen(Harry)[George]{Edna}011101(Tom)[Harry]{George}blah"
+chi (Harry)[Harry]{Tom}"(Phil)[George]{Edna}Aug000011
+Red011000(Phil)[George]{Harry}Tue(Tom)[George]{Edna}
+$$$3.14153(Phil)[Tom]{Harry}111000(Edna)[Tom]{Tom}2.8tao
+Redpi(Phil)[Harry]{Tom}3.14(George)[Tom]{George}FriWHITE
+chiOrange(George)[Tom]{Tom}Tue(Phil)[Edna]{Harry}3.14153$$$
+3.14153Yellow(Phil)[Edna]{George} (Tom)[Edna]{Phil}WHITE$$
+MonFri(George)[Phil]{Harry}000110(Edna)[George]{Edna}phi 
+NULL010101(Phil)[Edna]{George}'(Phil)[George]{Harry}VOIDRed
+VOIDtao(Harry)[Phil]{Tom} (George)[Tom]{Phil}'Yellow
+Jun(George)[Phil]{Phil}Jun(Phil)[Tom]{George}fubarchi
+3.14$$$(George)[Edna]{Harry}Red(Phil)[Edna]{Edna}fubar$$
