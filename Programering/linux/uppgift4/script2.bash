@@ -1,4 +1,5 @@
 #!/bin/bash
+# not done
 
 DOME="mechani.se"
 
