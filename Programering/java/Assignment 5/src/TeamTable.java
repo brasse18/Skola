@@ -1,4 +1,3 @@
-import java.io.Reader;
 import java.util.Scanner;
 
 public class TeamTable {
@@ -101,7 +100,7 @@ public class TeamTable {
 			
 		}
 			
-
+		input.close();
 	}
 	
 	public static void printMenu() {
