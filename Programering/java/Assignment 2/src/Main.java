@@ -40,11 +40,13 @@ public class Main {
 	}
 
 	public static void runPogram2() {
-		int nr = 100;
+		int nr = 101;
 		double sum = 0;
-		for (int i = 0; i < nr; i++) {
-			sum += i / (100 - i);
+		for (int i = 1; i < nr; i++) {
+			sum += (double)i / (double)(nr - i);
 		}
+		//423.92512928160164
+		//418.73775176396197
 		System.out.println("Sum is : " + sum);
 
 	}
